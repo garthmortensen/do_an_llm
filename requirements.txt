@@ -1,0 +1,4 @@
+# a little skeptical this was everything...iirc, i installed a number of other libraries...pipreqs is gaslighting
+langchain==0.1.16
+openai==1.23.2
+python-dotenv==1.0.1
