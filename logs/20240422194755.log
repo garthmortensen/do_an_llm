@@ -1,0 +1,14 @@
+2024-04-22 19:47:56,301 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-04-22 19:47:58,100 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-04-22 19:47:59,407 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-04-22 19:48:01,524 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-04-22 19:48:01,541 - testing - INFO - Explain in simple terms what stress testing is.
+Stress testing is like a financial check-up for big banks. It helps make sure they have enough money to keep lending to people and businesses even during tough times like a severe recession. The test looks at how much money the bank might lose, how much they make, and how much they have left to cover any losses. It's a way to see if the bank is strong enough to handle difficult economic situations.
+
+
+2024-04-22 19:48:01,666 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-04-22 19:48:06,131 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-04-22 19:48:06,133 - testing - INFO - Give me a short summary of how this years really bad scenarios differ from previous years.
+This year's severely adverse scenario features a slightly smaller increase in the unemployment rate compared to the previous year. However, it has significantly higher starting interest rates, leading to more significant declines in response to economic activity and inflation. Equity prices and corporate bond spreads experience more severe declines, reflecting market volatility. The international component shows a more severe recession in developing Asia and Japan but less severe in the euro area and the United Kingdom compared to last year. Additionally, the global market shock component includes increasing inflationary risks and different behaviors in interest rates and commodity prices compared to the previous year.
+
+
